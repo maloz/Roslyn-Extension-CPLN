@@ -1,0 +1,9 @@
+C:\Users\Zollikoferma\AppData\Local\Microsoft\VisualStudio\12.0Roslyn\Extensions\Roslyn ()\CodeFix\1.0\\CodeFix.dll
+C:\Users\Zollikoferma\AppData\Local\Microsoft\VisualStudio\12.0Roslyn\Extensions\Roslyn ()\CodeFix\1.0\\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zollikoferma\AppData\Local\Microsoft\VisualStudio\12.0Roslyn\Extensions\Roslyn ()\CodeFix\1.0\\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Zollikoferma\AppData\Local\Microsoft\VisualStudio\12.0Roslyn\Extensions\Roslyn ()\CodeFix\1.0\\Microsoft.CodeAnalysis.dll
+C:\Users\Zollikoferma\AppData\Local\Microsoft\VisualStudio\12.0Roslyn\Extensions\Roslyn ()\CodeFix\1.0\\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Zollikoferma\AppData\Local\Microsoft\VisualStudio\12.0Roslyn\Extensions\Roslyn ()\CodeFix\1.0\\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Zollikoferma\AppData\Local\Microsoft\VisualStudio\12.0Roslyn\Extensions\Roslyn ()\CodeFix\1.0\\System.Collections.Immutable.dll
+C:\Users\Zollikoferma\AppData\Local\Microsoft\VisualStudio\12.0Roslyn\Extensions\Roslyn ()\CodeFix\1.0\\System.Reflection.Metadata.dll
+C:\Users\Zollikoferma\AppData\Local\Microsoft\VisualStudio\12.0Roslyn\Extensions\Roslyn ()\CodeFix\1.0\\extension.vsixmanifest
